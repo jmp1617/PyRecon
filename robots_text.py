@@ -1,6 +1,6 @@
 import urllib.request
 import io
-__author__ = 'malloc'
+__author__ = 'Jacob'
 
 
 def get_robots_txt(url):
