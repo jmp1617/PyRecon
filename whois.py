@@ -1,5 +1,5 @@
 import os
-__author__ = 'malloc'
+__author__ = 'Jacob'
 
 
 def get_whois(url):
