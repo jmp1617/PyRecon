@@ -5,7 +5,7 @@ from ip_address import *
 from nmap import *
 from robots_text import *
 from whois import *
-__author__ = 'Jacob Potter' 
+__author__ = 'Jacob Potter'
 
 
 ROOT_DIR = 'PyReconScan'
